@@ -1,0 +1,39 @@
+{
+    "songs": [
+        {
+            "title": "Beat it",
+            "artist": "Michael Jackson",
+            "genre": "pop"
+        },
+        {
+            "title": "Rasputin",
+            "artist": "Boney M",
+            "genre": "disco"
+        },
+        {
+            "title": "As",
+            "artist": "Stevie Wonder",
+            "genre": "Soul_RnB"
+        },
+        {
+            "title": "No woman no cry",
+            "artist": "Bob Marley",
+            "genre": "Reggae"
+        },
+        {
+            "title": "Summertime",
+            "artist": "Janis Joplin",
+            "genre": "Rock"
+        },
+        {
+            "title": "Pull me under",
+            "artist": "Dreamtheater",
+            "genre": "Rock"
+        },
+        {
+            "title": "Like a prayer",
+            "artist": "Madonna",
+            "genre": "pop"
+        }
+    ]
+}
